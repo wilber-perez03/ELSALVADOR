@@ -1,0 +1,47 @@
+.center-text{
+    text-align: center;
+}
+.teal-text{
+    color: teal;
+}
+.orange-text{
+    color: orange;
+}
+
+.green-text{
+    color: rgb(122, 255, 122);
+}
+
+.justify{
+    text-align: justify;
+    margin: 4%;
+}
+
+.mycontent{
+    display: flex;
+    justify-content: center;
+}
+
+.options-route{
+    margin: 1%;
+    padding: 1%;
+    border-color: orange;
+    background-color: whitesmoke;
+    border-radius: 6px;
+    color: whitesmoke;
+}
+.color1{
+    background-color: #F1948A;
+}
+.color2{
+    background-color: #73C6B6;
+}
+.color3{
+    background-color: #F5B041;
+}
+.color4{
+    background-color: #AF7AC5;
+}
+.color5{
+    background-color: lightskyblue;
+}
