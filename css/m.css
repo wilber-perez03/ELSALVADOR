@@ -19,7 +19,9 @@
 
 .mycontent{
     display: flex;
-    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    justify-content: space-around;
 }
 
 .options-route{

@@ -333,9 +333,16 @@ footer {
     .titulo {
         font-size: 45px;
     }
-
+    .mycontent{
+      
+       
+       justify-content: space-evenly;
+        
+        
+    }
+   
     .contenido-header {
-        flex-direction: column;
+        flex-direction: column-reverse;
         justify-content: space-evenly;
         height:auto;
     }
@@ -439,6 +446,7 @@ footer {
 
     .contenido-header>img {
         width: 200px;
+        height: auto;
     }
 
     .enlaces-header {
@@ -474,7 +482,12 @@ footer {
     .hamburguer {
         display: block;
     }
-
+    .mycontent{
+        justify-content: space-evenly;
+        flex-direction: column;
+        
+        
+    }
  
     /* arte */
 
