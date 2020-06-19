@@ -233,36 +233,6 @@ nav {
 
 
 
-/* Services */
-
-.services {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.services>img {
-    width: 500px;
-}
-
-.box-skills {
-    margin: 30px 30px 0 0;
-}
-
-.box-skills h4 {
-    font-size: 24px;
-    background: #f2f2f2;
-    width: 350px;
-    border-radius: 6px;
-    padding: 10px 0 10px 15px;
-    margin-bottom: 10px;
-}
-
-.box-skills i {
-    color: #1FDE82;
-    font-size: 20px;
-}
-
 /* footer */
 
 footer {
@@ -383,25 +353,7 @@ footer {
 
     
 
-    /* Services */
-
-    .services {
-        flex-direction: column-reverse;
-        align-items: center;
-    }
-
-    .box-skills {
-        margin: 0 0 40px 0;
-
-    }
-
-    .box-skills h4 {
-        width: 500px;
-    }
-
-    .services>img {
-        width: 500px;
-    }
+    
 
     /* Footer */
 
@@ -496,16 +448,7 @@ footer {
     }
 
    
-    /* Services */
-
-    .services>img {
-        width: 300px;
-    }
-
-    .box-skills h4 {
-        width: 100%;
-    }
-
+   
     /* Footer */
     .partFooter {
         width: 95%;
