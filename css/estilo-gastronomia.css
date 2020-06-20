@@ -168,13 +168,16 @@ nav {
 
 .menu {
     background: #73C6B6;
-   
+    
     padding-top: 30px;
+    
 }
+
 
 .conten-menu {
     display: flex;
     justify-content: space-evenly;
+   
 }
 
 .tarjetas {
