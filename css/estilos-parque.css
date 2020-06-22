@@ -196,20 +196,16 @@ footer {
     margin-bottom: 30px;
 }
 
-.partFooter a {
-    display: block;
-    text-decoration: none;
-    color: #5D6678;
-    font-weight: 300;
-    transition: color .3s ease-in-out;
-    margin-bottom: 10px;
+
+.partFooter h3 {
+    color: #1d273b;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top:20px;
+    text-align: center;
+   
 }
-
-
-.partFooter a:hover {
-    color: #1FDE82;
-}
-
 .partFooter img {
     width: 70%;
 }

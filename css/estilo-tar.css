@@ -140,24 +140,10 @@ nav {
     margin-top: 14px;
     color: #5D6678;
     text-align: justify;
+    margin: 4%;
 }
 
 
-.contenido-header a {
-    margin: 28px 0 0 0;
-    width: 130px;
-    display: inline-block;
-    background: #1FDE82;
-    text-align: center;
-    color: #fff;
-    padding: 12px 0;
-    text-decoration: none;
-    font-weight: 400;
-    text-transform: uppercase;
-    font-size: 14px;
-    border-radius: 5px;
-    box-shadow: 0 8px 32px rgba(31, 222, 130, .46);
-}
 
 .titulo {
     font-size: 50px;
@@ -251,21 +237,19 @@ footer {
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 30px;
+   
+   
+}
+.partFooter h3 {
+    color: #1d273b;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-top:20px;
+    text-align: center;
+   
 }
 
-.partFooter a {
-    display: block;
-    text-decoration: none;
-    color: #5D6678;
-    font-weight: 300;
-    transition: color .3s ease-in-out;
-    margin-bottom: 10px;
-}
-
-
-.partFooter a:hover {
-    color: #1FDE82;
-}
 
 .partFooter img {
     width: 70%;
