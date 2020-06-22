@@ -311,6 +311,8 @@ footer {
 
     .contenido-header>img {
         width: 400px;
+        height: auto;
+       
     }
 
     .textos-header {
@@ -319,6 +321,7 @@ footer {
     /* slider */
     .contenido-slider > img{
         width: 250px;
+        
     }
 
     .contenido-slider > div{
@@ -334,13 +337,14 @@ footer {
     /* arte */
 
     .arte {
-        height: 720px;
+        height: 1000px;
         justify-content: space-evenly;
         flex-direction: column;
     }
 
     .arte>img {
         width: 400px;
+       
     }
 
     
@@ -351,6 +355,7 @@ footer {
 
     footer {
         justify-content: space-evenly;
+        
     }
 
     .partFooter {
@@ -390,7 +395,7 @@ footer {
 
     .contenido-header>img {
         width: 200px;
-        height: auto;
+      
     }
 
     .enlaces-header {
@@ -437,6 +442,7 @@ footer {
 
     .arte>img {
         width: 200px;
+        height: auto;
     }
 
    
@@ -444,6 +450,7 @@ footer {
     /* Footer */
     .partFooter {
         width: 95%;
+
         margin-bottom: 40px;
     }
 }
