@@ -8,15 +8,17 @@
 body {
     font-family: 'MuseoModerno', cursive;
 }
-.ancho{
+
+.ancho {
     width: 700px;
     height: 350px;
-    
+
     padding: 60px 0 60px 0;
-    
-   
-  
+
+
+
 }
+
 h1,
 h2,
 h3,
@@ -32,7 +34,7 @@ h6 {
     max-width: 1000px;
     margin: auto;
     overflow: hidden;
-    padding: 60px 0 ;
+    padding: 60px 0;
 }
 
 
@@ -166,7 +168,7 @@ nav {
     flex-wrap: wrap;
     margin-top: 60px;
     justify-content: space-around;
-    
+
 }
 
 .articulo {
@@ -183,13 +185,13 @@ nav {
 }
 
 
-.articulo > img {
+.articulo>img {
     width: 100%;
     height: 200px;
     box-shadow: 0 4px 10px rgba(17, 29, 48, .26);
 }
-    
-   
+
+
 
 
 
@@ -239,17 +241,18 @@ footer {
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 30px;
-   
-   
+
+
 }
+
 .partFooter h3 {
     color: #1d273b;
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 30px;
-    margin-top:20px;
+    margin-top: 20px;
     text-align: center;
-   
+
 }
 
 
@@ -295,13 +298,14 @@ footer {
     .contenido-header>img {
         width: 400px;
     }
-    .ancho{
+
+    .ancho {
         width: 80%;
-       
-       
-       
-       
-      
+
+
+
+
+
     }
 
     .textos-header {
@@ -314,9 +318,9 @@ footer {
         width: 45%;
     }
 
-    
 
-    
+
+
 
     /* Footer */
 
@@ -347,11 +351,11 @@ footer {
         padding: 0 10px;
     }
 
-    .ancho{
+    .ancho {
         width: 80%;
-       
-       
-      
+
+
+
     }
 
     .enlaces-header {
@@ -394,7 +398,7 @@ footer {
         width: 95%;
     }
 
-    
+
     /* Services */
 
     .services>img {
