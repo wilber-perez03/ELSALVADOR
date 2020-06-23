@@ -4,9 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Playas</title>
+    <link rel="shortcut icon"  type="image/x-icon" href="img/logosv.jpg"> 
     <link rel="stylesheet" href="css/estilo-tar.css">
     <link href="https://fonts.googleapis.com/css2?family=MuseoModerno:wght@200;300;400;700&display=swap" rel="stylesheet"> 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+     <!-- uso de video js  -->
+    <link href="https://vjs.zencdn.net/7.8.2/video-js.css" rel="stylesheet" />
+
+   
+    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
 </head>
 <body>
 
@@ -39,7 +45,22 @@
                          he aqui algunas de las  más sobresalientes.</p>
                    
                 </section>
-                <img src="img/playas/playa.jpeg" alt="">
+               
+                <div class="ancho">
+                <video
+                id="my-video"
+                class="video-js  vjs-big-play-centered vjs-16-9"
+                controls
+                preload="auto"
+                
+                poster="MY_VIDEO_POSTER.jpg"
+                data-setup="{}">
+                <source src="img/videos/playa.mp4" type="video/mp4" />
+              
+         
+              </video>
+    
+            </div>
             </section>
         </div>
     </header>
@@ -126,6 +147,7 @@
        
     </footer>
 
+    <script src="https://vjs.zencdn.net/7.8.2/video.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://kit.fontawesome.com/c15b744a04.js" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>

@@ -200,6 +200,8 @@ nav {
     color: #5D6678;
     text-align: justify;
     margin: 4%;
+   
+    
 }
 
 
@@ -230,6 +232,7 @@ footer {
     font-size: 20px;
     font-weight: 400;
     margin-bottom: 30px;
+   
 }
 
 .partFooter h3 {
@@ -338,6 +341,11 @@ footer {
     .contenido-header>img {
         width: 200px;
         height: auto;
+    }
+
+    .teal-text{
+        text-align: center;
+        margin: 4%;
     }
 
     .enlaces-header {
